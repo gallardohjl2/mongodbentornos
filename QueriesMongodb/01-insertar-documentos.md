@@ -72,16 +72,5 @@ _Insertar Multiples Documentos_
    ]);
    ```
 
-   ---
 
-   # Operadores de Comparación 
-   | Operador | Descripción | 
-   | -- | -- |
-   | $eq | igual |
-   | $gt | Mayor que |
-   | $gte | Mayor o Igual |
-   | $in | Buscar un elemento en un array |
-   | $lt | Menor que |
-   | $lte | Menor o Igual |
-   | $ne | Todos los elementos que no sean iguales |
-   | $nin | Ninguno de los valores del arreglo |
+   
